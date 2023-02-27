@@ -1,0 +1,15 @@
+/Users/elvis/Desktop/gb/C#/dz8/task60/bin/Debug/net6.0/task60
+/Users/elvis/Desktop/gb/C#/dz8/task60/bin/Debug/net6.0/task60.deps.json
+/Users/elvis/Desktop/gb/C#/dz8/task60/bin/Debug/net6.0/task60.runtimeconfig.json
+/Users/elvis/Desktop/gb/C#/dz8/task60/bin/Debug/net6.0/task60.dll
+/Users/elvis/Desktop/gb/C#/dz8/task60/bin/Debug/net6.0/task60.pdb
+/Users/elvis/Desktop/gb/C#/dz8/task60/obj/Debug/net6.0/task60.csproj.AssemblyReference.cache
+/Users/elvis/Desktop/gb/C#/dz8/task60/obj/Debug/net6.0/task60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvis/Desktop/gb/C#/dz8/task60/obj/Debug/net6.0/task60.AssemblyInfoInputs.cache
+/Users/elvis/Desktop/gb/C#/dz8/task60/obj/Debug/net6.0/task60.AssemblyInfo.cs
+/Users/elvis/Desktop/gb/C#/dz8/task60/obj/Debug/net6.0/task60.csproj.CoreCompileInputs.cache
+/Users/elvis/Desktop/gb/C#/dz8/task60/obj/Debug/net6.0/task60.dll
+/Users/elvis/Desktop/gb/C#/dz8/task60/obj/Debug/net6.0/refint/task60.dll
+/Users/elvis/Desktop/gb/C#/dz8/task60/obj/Debug/net6.0/task60.pdb
+/Users/elvis/Desktop/gb/C#/dz8/task60/obj/Debug/net6.0/task60.genruntimeconfig.cache
+/Users/elvis/Desktop/gb/C#/dz8/task60/obj/Debug/net6.0/ref/task60.dll
